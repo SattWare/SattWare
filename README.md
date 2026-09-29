@@ -4,6 +4,8 @@
 
 I'm interested in building software, understanding how things work under the hood, and turning ideas into real projects.
 
+---
+
 ### Currently
 
 * 🎓 Studying Software Engineering
