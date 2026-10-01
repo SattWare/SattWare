@@ -34,6 +34,7 @@ I'm interested in building software, understanding how things work under the hoo
 | Project                | Description                                              |
 | ---------------------- | -------------------------------------------------------- |
 | 🎮 **Bound**           | A series of 2D RPG projects                              |
+| 📱 **VTT Connect**     | Cross-platform School Management App Project made for Student-level Scientific Research, deployed for practical uses at Vo Truong Toan school|
 | ⚙️ **C++ Learning**    | Algorithms, data structures, and programming experiments |
 | 🐍 **Python Projects** | Small tools, experiments, and prototypes                 |
 
