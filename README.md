@@ -37,9 +37,25 @@ I'm interested in building software, understanding how things work under the hoo
 
 ###
 
+**Skills**
+
+<div data-importer="techs" align="left">
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cloudflare" height="40" alt="cloudflare logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
+</div>
+
+###
+
 **Currently exploring**
 
-`Data Structures & Algorithms` `Flutter` `Git` `GitHub`
+`Data Structures & Algorithms` `C++` `Git` `GitHub`
 
 **Other interests**
 
@@ -67,6 +83,7 @@ I use this space to document what I learn, build projects, experiment with ideas
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SattWare/SattWare/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
 </picture>
 
+###
 
 > **Learn → Build → Break → Understand → Repeat**
 
