@@ -23,8 +23,7 @@ jobs:
         with:
           username: ${{ github.repository_owner }}
           file: dist/trophy.svg
-          # Prefer a dedicated PAT for profile API access; fall back to the default Actions token.
-          token: ${{ secrets.GH_PAT || github.token }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           theme: dracula
           max-rows: 1
           margin-width: 8
