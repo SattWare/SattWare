@@ -43,7 +43,6 @@ More projects will appear here as I build them.
 ### GitHub
 
 I use this space to document what I learn, build projects, experiment with ideas, and gradually become a better software engineer.
-
 <br clear="both">
 
 <picture data-importer="pacman">
@@ -51,6 +50,7 @@ I use this space to document what I learn, build projects, experiment with ideas
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SattWare/SattWare/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SattWare/SattWare/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
 </picture>
+
 
 > **Learn → Build → Break → Understand → Repeat**
 
