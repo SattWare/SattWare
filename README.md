@@ -1,98 +1,121 @@
-# Hi, I'm Satt.
+# Hi, I'm Satt 👋
 
 **Software Engineering student @ Ho Chi Minh City Open University**
 
-I'm interested in building software, understanding how things work under the hood, and turning ideas into real projects.
+I like building things, understanding how they work under the hood, and turning ideas into real projects.
+
+I'm currently focusing on **C++**, **Data Structures & Algorithms**, and becoming a stronger software engineer through projects and experimentation.
 
 ---
 
-<div data-importer="socials" align="center">
-  <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="hackerrank logo"  />
-  <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="stackoverflow logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+<div align="center">
+
+<a href="https://mail.google.com/mail/u/?authuser=2561080037Tan@ou.edu.vn">
+<img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="36" alt="Email"/>
+</a>
+<a href="https://www.facebook.com/LeVuTan.0805" target="_blank"> <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="facebook logo" /> </a>
+<a href="https://www.hackerrank.com/profile/2651080037tan">
+<img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&style=for-the-badge" height="36" alt="HackerRank"/>
+</a>
+<a href="https://stackoverflow.com/users/33175809">
+<img src="https://img.shields.io/static/v1?message=Stack%20Overflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&style=for-the-badge" height="36" alt="Stack Overflow"/>
+</a>
+<a href="https://ko-fi.com/sattware">
+<img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&style=for-the-badge" height="36" alt="Ko-fi"/>
+</a>
+
 </div>
 
-###
 ---
 
-### Currently
+## 🧭 What I'm Up To
 
-* 🎓 Studying Software Engineering
-* 💻 Learning **C++** and **Data Structures & Algorithms**
-* 🐍 Working with **Python**
+* 🎓 Studying **Software Engineering**
+* ⚙️ Learning **C++** and **Data Structures & Algorithms**
+* 🐍 Building with **Python**
 * 📱 Exploring **Flutter** and mobile development
-* 🎮 Building games and experimenting with game systems
-* 🧰 Learning software engineering, Git, and open-source workflows
+* 🎮 Developing games and experimenting with game systems
+* 🧰 Learning **Git, GitHub, and software engineering workflows**
 
-### Tech
+---
 
-**Languages**
+## 🛠️ Tech Stack
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
+### Languages
+
+<div align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/>
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="Lua"/>
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin"/>
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="Dart"/>
+
 </div>
 
-###
+### Tools & Technologies
 
-**Skills**
+<div align="left">
 
-<div data-importer="techs" align="left">
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cloudflare" height="40" alt="cloudflare logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
+<img src="https://skillicons.dev/icons?i=git,github,flutter,firebase,gcp,cloudflare,androidstudio" height="40" alt="Tools and technologies"/>
+
 </div>
 
-###
+---
 
-**Currently exploring**
+## 🔭 Currently Exploring
 
-`Data Structures & Algorithms` `C++` `Git` `GitHub`
+`C++` `DSA` `Git` `GitHub` `Software Engineering`
 
-**Other interests**
+### Areas of Interest
 
 `Game Development` `Graphics` `Systems` `Software Architecture`
 
-### Projects
+---
 
-| Project                | Description                                              |
-| ---------------------- | -------------------------------------------------------- |
-| 🎮 **Bound**           | A series of 2D RPG projects                              |
-| 📱 **VTT Connect**     | Cross-platform School Management App Project made for Student-level Scientific Research, deployed for practical uses at Vo Truong Toan school|
-| ⚙️ **C++ Learning**    | Algorithms, data structures, and programming experiments |
-| 🐍 **Python Projects** | Small tools, experiments, and prototypes                 |
+## 🚀 Projects
 
-More projects will appear here as I build them.
+| Project                | What it is                                                                              |
+| :--------------------- | :-------------------------------------------------------------------------------------- |
+| 🎮 **Bound**           | A series of 2D RPG projects focused on gameplay, systems, and storytelling              |
+| 📱 **VTT Connect**     | Cross-platform school management app developed as a student scientific research project |
+| ⚙️ **C++ Learning**    | Algorithms, data structures, and programming experiments while learning C++             |
+| 🐍 **Python Projects** | Small tools, experiments, prototypes, and technical experiments                         |
 
-### GitHub
+> More projects will appear here as I build them.
 
-I use this space to document what I learn, build projects, experiment with ideas, and gradually become a better software engineer.
-<br clear="both">
+---
 
-<picture data-importer="pacman">
+## 📈 GitHub
+
+This profile is where I document what I learn, build projects, experiment with ideas, and gradually become a better software engineer.
+
+<div align="center">
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SattWare/SattWare/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SattWare/SattWare/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SattWare/SattWare/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+  <img alt="GitHub contribution graph" src="https://raw.githubusercontent.com/SattWare/SattWare/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
 </picture>
 
-###
+</div>
 
-> **Learn → Build → Break → Understand → Repeat**
+---
 
+<div align="center">
+
+### **Learn → Build → Break → Understand → Repeat**
+
+<br>
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=SattWare.SattWare" alt="Profile views"/>
+
+</div>
