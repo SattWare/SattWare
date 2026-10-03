@@ -1,4 +1,4 @@
-<p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=SattWare.SattWare" alt="Profile views"/></p>
+<p align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=SattWare.SattWare" alt="Profile views"/></p>
 <div align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="64px" height="64px">
 
