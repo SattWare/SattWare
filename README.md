@@ -93,13 +93,6 @@ This profile is where I document what I learn, build projects, experiment with i
 </picture>
 
 </div>
-
-###
-
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/SattWare/SattWare/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
 ---
 
 <h3 align="center">Support me!</h3>
